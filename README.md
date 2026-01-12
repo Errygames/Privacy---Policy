@@ -1,5 +1,5 @@
 # Privacy---Policy
-Privacy-Policy GT Manager
+Privacy-Policy GT Retro Racing Manager
 Privacy Policy
 This application is provided as a free game and respects the privacy of its users.
 Information Collection and Use
