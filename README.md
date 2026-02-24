@@ -1,5 +1,3 @@
-# Privacy---Policy
-Privacy-Policy GT Retro Racing Manager
 Privacy Policy
 This application is provided as a free game and respects the privacy of its users.
 Information Collection and Use
@@ -18,7 +16,7 @@ This data is used to display advertisements and improve advertising performance,
 You can review Google’s Privacy Policy at:
 https://policies.google.com/privacy
 Analytics
-The app does not use analytics or tracking services such as Firebase Analytics.
+The app uses AdMob’s built-in reporting to analyze ad performance and user engagement with advertisements. It does not use additional third-party tracking services like Firebase Analytics for gameplay behavior. 
 Children’s Information
 This app is not intended for children under the age of 13.
 The developer does not knowingly collect personally identifiable information from children.
